@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LeagueInfo/static/css/main.07c1af33.chunk.css",
+    "main.js": "/LeagueInfo/static/js/main.7b64a4ea.chunk.js",
+    "main.js.map": "/LeagueInfo/static/js/main.7b64a4ea.chunk.js.map",
+    "runtime-main.js": "/LeagueInfo/static/js/runtime-main.9be8d17e.js",
+    "runtime-main.js.map": "/LeagueInfo/static/js/runtime-main.9be8d17e.js.map",
+    "static/css/2.0624914a.chunk.css": "/LeagueInfo/static/css/2.0624914a.chunk.css",
+    "static/js/2.71663b51.chunk.js": "/LeagueInfo/static/js/2.71663b51.chunk.js",
+    "static/js/2.71663b51.chunk.js.map": "/LeagueInfo/static/js/2.71663b51.chunk.js.map",
+    "index.html": "/LeagueInfo/index.html",
+    "precache-manifest.9deb90e5e17a0149db343461dd5a2940.js": "/LeagueInfo/precache-manifest.9deb90e5e17a0149db343461dd5a2940.js",
+    "service-worker.js": "/LeagueInfo/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/LeagueInfo/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.07c1af33.chunk.css.map": "/LeagueInfo/static/css/main.07c1af33.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9be8d17e.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.71663b51.chunk.js",
+    "static/css/main.07c1af33.chunk.css",
+    "static/js/main.7b64a4ea.chunk.js"
+  ]
+}
